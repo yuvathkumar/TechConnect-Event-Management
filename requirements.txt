@@ -1,6 +1,2 @@
 streamlit
-<<<<<<< HEAD
 cryptography
-=======
-cryptography
->>>>>>> 8fd8c3fe8882366d9128680640464f666ddbe585
